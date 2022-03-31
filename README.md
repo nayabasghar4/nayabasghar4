@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<h1 align="center">Hi 👋, I'm Nayab Asghar</h1>
 <h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
 <img align="right"
@@ -6,7 +6,7 @@
     width="190">
 
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **java script**
 
 - 💬 Ask me about Anything **Tech** Related
 
